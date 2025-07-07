@@ -60,7 +60,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/TOEIC-980%2F990-blue?style=for-the-badge&logo=bookstack&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/TOEFL-109%2F120-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/TOEFL-113%2F120-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white" height="32" />
   <br>
   <b>
     TOEIC 980/990<br>
