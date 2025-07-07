@@ -64,7 +64,7 @@
   <br>
   <b>
     TOEIC 980/990<br>
-    IBT TOEFL 109/120
+    IBT TOEFL 113/120
   </b>
 </div>
 
