@@ -7,7 +7,7 @@
   &emsp;&emsp;📚 제2 복수전공(예정) &nbsp;: 공과대학 전자전기공학부 / Dual Major 2 Electrical & Electronic Engineering (Planned)
 </b><br>
   <b>🎖 Ex-Sergeant(E5 SGT), ROK Army Special Warfare Command (23.03) / 특수전사령부 7공수특전여단 병장 만기전역</b><br>
-  <b>🔬 Member, Dongguk CAPS Central Club (25.03~) / 동국대학교 중앙동아리 CAPS</b><br>
+  <b>🔬 Member, Dongguk CAPS Central Club (25.03~) / 동국대학교 중앙동아리 CAPS 집행부원(학술부)</b><br>
   <b>👨🏻‍🏫 Programming Institute Part-Time Teacher / 현직 프로그래밍 학원 시간강사</b><br>
   <b>🌐 Eng-Kor Interpreter, 1.3 year experience (Simultaneous & Consecutive) / 통번역 : 경력 1년 4개월 (동시, 순차통역)</b>
 </p>
