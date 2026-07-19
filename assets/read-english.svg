@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="34" viewBox="0 0 222 34" role="img" aria-label="Read English Version">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="222" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="221" height="33" rx="7" fill="url(#bg)" stroke="#2dd4bf"/>
+  <circle cx="18" cy="17" r="6" fill="#2dd4bf" opacity="0.95"/>
+  <path d="M15 17h6M18 14v6" stroke="#052e2b" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="34" y="22" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0">Read English Version</text>
+</svg>

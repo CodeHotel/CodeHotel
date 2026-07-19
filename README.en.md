@@ -1,22 +1,22 @@
-<h1 align="center">정상원 (Sangwon Jung, 'Duke')</h1>
+<h1 align="center">Sangwon Jung ('Duke')</h1>
 
 <p align="center">
-  <a href="README.en.md">
-    <img src="assets/read-english.svg" height="34" alt="Read English Version">
+  <a href="README.md">
+    <img src="assets/read-korean.svg" height="34" alt="Read Korean Version">
   </a>
 </p>
 
 <p align="left">
-  <b>🎓 Senior Student, Computer Science and Engineering, Dongguk University (Entry: 20)</b><br>
-<b>
-  &emsp;&emsp;📚 주전공 &nbsp;: 공과대학 컴퓨터공학전공<br>
-  &emsp;&emsp;📚 제1 복수전공 &nbsp;: 공과대학 기계로봇에너지공학<br>
-  &emsp;&emsp;📚 제2 복수전공(예정) &nbsp;: 공과대학 전자전기공학부
-</b><br>
-  <b>🎖 특수전사령부 제7공수특전여단 작전참모처 병장 만기전역</b><br>
-  <b>🔬 동국대학교 중앙동아리 CAPS 부장단 (학술부장, 39기)</b><br>
-  <b>👨🏻‍🏫 대치동 프로그래밍 학원 시간강사 (2025.05 ~ 2026.05)</b><br>
-  <b>🌐 통번역 : 경력 1년 4개월 (동시, 순차) (군 통번역, 엔터테인먼트 통역) </b>
+  <b>🎓 Senior Student, Computer Science and Engineering, Dongguk University (Entry: 2020)</b><br>
+  <b>
+    &emsp;&emsp;📚 Primary Major: Computer Science and Engineering, College of Engineering<br>
+    &emsp;&emsp;📚 Dual Major 1: Mechanical, Robotics and Energy Engineering<br>
+    &emsp;&emsp;📚 Dual Major 2: Electrical and Electronic Engineering (Planned)
+  </b><br>
+  <b>🎖 ROK Special Warfare Command, 7th Special Forces Brigade (Discharged: 2023.03, Sergeant E-5)</b><br>
+  <b>🔬 Academic Director, Dongguk University Central Programming Club CAPS (2026)</b><br>
+  <b>👨🏻‍🏫 Programming Institute Part-Time Teacher (2025.05 ~ 2026.05)</b><br>
+  <b>🌐 Eng-Kor Interpreter, 1.3yrs experience (Military, Entertainment Agency)</b>
 </p>
 
 <p align="center">
@@ -26,14 +26,15 @@
   <a href="mailto:schooldog07@dgu.ac.kr">
     <img src="https://img.shields.io/badge/E--Mail-schooldog07%40dgu.ac.kr-red?logo=gmail" />
   </a>
-  <img src="https://img.shields.io/badge/Entry-20-blue" />
-  <img src="https://img.shields.io/badge/Status-수료(4학년)-blueviolet" />
-  <img src="https://img.shields.io/badge/DualMajor-CSE%20%2B%20MEC-brightgreen" />
+  <img src="https://img.shields.io/badge/Entry-2020-blue" />
+  <img src="https://img.shields.io/badge/Status-Coursework%20Completed-blueviolet" />
+  <img src="https://img.shields.io/badge/DualMajor-CSE%20%2B%20MRE-brightgreen" />
 </p>
 
 ---
 
-### 🏆 **OpenCV 기여자**
+### 🏆 OpenCV Contributor
+
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-Contributor-1abc9c?logo=opencv&logoColor=white&style=for-the-badge" height="32" />
   <br>
@@ -45,16 +46,16 @@
 
 ---
 
-### 🪪 특허권
+### 🪪 Patent
 
 <div align="center">
   <img src="https://img.shields.io/badge/KIPO-Registered%20Patent-success?style=for-the-badge&logo=google-scholar&logoColor=white" height="32" />
   <br>
   <b>
-    온라인 강의 필기 프로그램 ‘넷필’<br>
-    (C# WPF, 대한민국 특허청 등록, 2022.07.25)<br>
-    [인공지능/빅데이터 융복합기술, 특허청 융복합기술심사국]<br>
-    특허번호 10-2429558-00-00
+    NetPil, an online lecture note-taking program<br>
+    C# WPF, registered with the Korean Intellectual Property Office on 2022.07.25<br>
+    AI / Big Data Convergence Technology, Convergence Technology Examination Bureau<br>
+    Patent No. 10-2429558-00-00
   </b>
   <br>
   <a href="https://github.com/CodeHotel/OnlineNote">
@@ -64,7 +65,7 @@
 
 ---
 
-### 🌏 어학능력
+### 🌏 Language Proficiency
 
 <div align="center">
   <img src="https://img.shields.io/badge/TOEIC-980%2F990-blue?style=for-the-badge&logo=bookstack&logoColor=white" height="32" />
@@ -78,13 +79,13 @@
 
 ---
 
-### 👨🏻‍🏫 실습조교 활동
+### 👨🏻‍🏫 Teaching Assistant
 
 <div align="center">
   <b>
-    컴퓨터AI학부 조교<br>
-    전공과목 '시스템소프트웨어' (2025 2학기)<br>
-    전공과목 '기초프로그래밍' (2026 1학기)
+    TA, Department of Computer Science and Artificial Intelligence<br>
+    Major Course: System Software (Fall 2025)<br>
+    Major Course: Basic Programming (Spring 2026)
   </b>
 </div>
 
@@ -94,8 +95,8 @@
 
 <div align="center">
   <b>
-    AI/CPS Lab (동국대학교 석문기 교수, 2025)<br>
-    MPMC Lab (연세대학교, 2025 겨울학기)
+    AI/CPS Lab (Dongguk University, Prof. Moon Gi Seok, 2025)<br>
+    MPMC Lab (Yonsei University, Winter 2025)
   </b>
 </div>
 
@@ -125,8 +126,7 @@
 
 <p align="center">
   <b>
-    Web, App, Embedded, Simulation & CAD, Automation Systems, Analog Circuit Design, Machine Learning & Computer Vision, Media<br>
-    (웹, 앱, 임베디드, 시뮬레이션 & CAD, 자동화 시스템, 아날로그 회로설계, 머신러닝 & 컴퓨터비전, 미디어)
+    Web, App, Embedded Systems, Simulation & CAD, Automation Systems, Analog Circuit Design, Machine Learning, Computer Vision, and Media
   </b>
 </p>
 
@@ -219,88 +219,88 @@
 <div align="left">
 
 <p>
-  <b>✦ <a href="https://dgucaps.kr/wiki/%EC%A0%95%EC%83%81%EC%9B%90">동국대학교 중앙 프로그래밍 동아리 학술부장</a></b> <sub>2026</sub><br>
-  &nbsp;&nbsp;• 스터디 정규교육과정 제정<br>
-  &nbsp;&nbsp;• 신규활동 개발TF 창설 (기업형 소프트웨어공학 실습활동)
+  <b>✦ <a href="https://dgucaps.kr/wiki/%EC%A0%95%EC%83%81%EC%9B%90">Academic Director, Dongguk University Central Programming Club</a></b> <sub>2026</sub><br>
+  &nbsp;&nbsp;• Established the regular curriculum for study programs<br>
+  &nbsp;&nbsp;• Founded a new-activity development task force for enterprise-style software engineering practice
 </p>
 
 <p>
-  <b>✦ 동국대학교 기계로봇에너지공학과 졸업작품</b> <sub>2026 1학기</sub><br>
-  &nbsp;&nbsp;• 폐 휴대폰을 통신/제어 기기로 활용한 산불감시드론<br>
-  &nbsp;&nbsp;• 전익기형 드론 내부 회로 전체 직접 제작 및 FBW 알고리즘 프로그래밍
+  <b>✦ Capstone Project, Department of Mechanical, Robotics and Energy Engineering, Dongguk University</b> <sub>Spring 2026</sub><br>
+  &nbsp;&nbsp;• Wildfire monitoring drone using discarded smartphones as communication and control devices<br>
+  &nbsp;&nbsp;• Personally designed and built the full internal circuit for a flying-wing drone, and programmed the FBW control algorithm
 </p>
 
 <p align="center">
-  <img src="drone_flight.gif" width="480" alt="산불감시드론 비행 영상">
+  <img src="drone_flight.gif" width="480" alt="Wildfire monitoring drone flight video">
 </p>
 
 <p>
-  <b>✦ 논문 집필</b> <sub>2025</sub><br>
-  &nbsp;&nbsp;• 디지털 트윈 시스템 (심사중)<br>
-  &nbsp;&nbsp;• 동국대학교 AI/CPS Lab (지도교수 : 동국대학교 컴퓨터AI학부 석문기 교수)
+  <b>✦ Academic Paper</b> <sub>2025</sub><br>
+  &nbsp;&nbsp;• Digital twin system (under review)<br>
+  &nbsp;&nbsp;• Dongguk University AI/CPS Lab (Advisor: Prof. Moon Gi Seok, Department of Computer Science and Artificial Intelligence, Dongguk University)
 </p>
 
 <p>
-  <b>✦ 연세대학교 수학계산학부 인턴</b> <sub>2025 겨울학기</sub><br>
-  &nbsp;&nbsp;• CFD(전산유체역학) / Numerical PDE(수치해석)
+  <b>✦ Intern, School of Mathematics and Computing, Yonsei University</b> <sub>Winter 2025</sub><br>
+  &nbsp;&nbsp;• CFD (Computational Fluid Dynamics) / Numerical PDE
 </p>
 
 <p>
-  <b>✦ <a href="https://github.com/CAPS-DGU/UmJoonSIC">엄준SIC</a></b> <sub>2025.08</sub><br>
-  &nbsp;&nbsp;• 동국대학교 컴퓨터AI학부 공식 실습 프로그램 제작, 채택, 배포<br>
-  &nbsp;&nbsp;• 책임교수: 동국대 컴퓨터AI학부 정준호 교수
+  <b>✦ <a href="https://github.com/CAPS-DGU/UmJoonSIC">UmJoonSIC</a></b> <sub>2025.08</sub><br>
+  &nbsp;&nbsp;• Built, adopted, and deployed an official lab program for Dongguk University's Department of Computer Science and Artificial Intelligence<br>
+  &nbsp;&nbsp;• Supervising professor: Prof. Junho Jung, Department of Computer Science and Artificial Intelligence, Dongguk University
 </p>
 
 <p>
-  <b>✦ <a href="https://github.com/CSID-DGU/2025-1-CSC4004-1-6-OpenAimForce">공개 SW 프로젝트</a></b> <sub>2025</sub><br>
-  &nbsp;&nbsp;• 에임핵 적발 테스트용 환경 개발 (C++, Go, Docker)<br>
-  &nbsp;&nbsp;• 딥러닝 정확도 70% 달성, 전체 분반 25팀 중 1등
+  <b>✦ <a href="https://github.com/CSID-DGU/2025-1-CSC4004-1-6-OpenAimForce">Open Source Software Project</a></b> <sub>2025</sub><br>
+  &nbsp;&nbsp;• Built an aimhack detection test environment with C++, Go, and Docker<br>
+  &nbsp;&nbsp;• Reached 70% deep-learning detection accuracy and ranked first among all classes' 25 teams
 </p>
 
 <p>
   <b>✦ OpenCV Contributor</b> <sub>2025~</sub><br>
-  &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv_contrib/pull/3898">7년 방치 모듈 복구 및 PR 승인</a><br>
-  &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv/pull/29387">OpenCV.js ximgproc EdgeDrawing 바인딩 수정</a>
+  &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv_contrib/pull/3898">Restored and received approval for a long-neglected module</a><br>
+  &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv/pull/29387">Fixed OpenCV.js ximgproc EdgeDrawing bindings</a>
 </p>
 
 <p>
-  <b>✦ <a href="https://github.com/jsub1379/AdventureDesign24-1">Adventure Design 프로젝트</a></b> <sub>2024</sub><br>
-  &nbsp;&nbsp;• nRF52832, 3D 프린팅, PCB 회로설계, Spring Boot, Flutter 연동
+  <b>✦ <a href="https://github.com/jsub1379/AdventureDesign24-1">Adventure Design Project</a></b> <sub>2024</sub><br>
+  &nbsp;&nbsp;• nRF52832, 3D printing, PCB circuit design, Spring Boot, and Flutter integration
 </p>
 
 <p>
-  <b>✦ <a href="https://github.com/CodeHotel/SnortSetup">IoT 홈서버 제어 시스템</a></b> <sub>2024</sub><br>
-  &nbsp;&nbsp;• Raspberry Pi, Snort IDS, PCB 설계
+  <b>✦ <a href="https://github.com/CodeHotel/SnortSetup">IoT Home Server Control System</a></b> <sub>2024</sub><br>
+  &nbsp;&nbsp;• Raspberry Pi, Snort IDS, and PCB design
 </p>
 
 <p>
-  <b>✦ <a href="https://github.com/CodeHotel/SIC_Helper">동국대 실습도우미 자동화툴 '엄준 SIC'</a></b> <sub>2023~2024</sub><br>
-  &nbsp;&nbsp;• 시스템소프트웨어 실습툴, C# WPF
+  <b>✦ <a href="https://github.com/CodeHotel/SIC_Helper">UmJoon SIC, Dongguk University Lab Helper Automation Tool</a></b> <sub>2023~2024</sub><br>
+  &nbsp;&nbsp;• System software lab helper tool built with C# WPF
 </p>
 
 <p>
-  <b>✦ <a href="https://github.com/guswls4928/CSE-CA">컴퓨터알고리즘과실습 프로젝트</a></b> <sub>2023</sub><br>
-  &nbsp;&nbsp;• MAUI + C++, Cross Platform 구조
+  <b>✦ <a href="https://github.com/guswls4928/CSE-CA">Computer Algorithms Practice Project</a></b> <sub>2023</sub><br>
+  &nbsp;&nbsp;• MAUI + C++, cross-platform architecture
 </p>
 
 <p>
-  <b>✦ <a href="https://github.com/CodeHotel/DguWebp">웹프로그래밍 프로젝트</a></b> <sub>2023</sub><br>
-  &nbsp;&nbsp;• AWS, JSP, 실시간 채팅 및 파일서버
+  <b>✦ <a href="https://github.com/CodeHotel/DguWebp">Web Programming Project</a></b> <sub>2023</sub><br>
+  &nbsp;&nbsp;• AWS, JSP, real-time chat, and file server
 </p>
 
 <p>
-  <b>✦ 군 정보화 장비 개발</b> <sub>2022~2023</sub><br>
-  &nbsp;&nbsp;• 전파통신장비, PCB 회로설계, 표창장 수상 (2023.03)
+  <b>✦ Military Information Equipment Development</b> <sub>2022~2023</sub><br>
+  &nbsp;&nbsp;• Radio communication equipment, PCB circuit design, and commendation award in 2023.03
 </p>
 
 <p>
-  <b>✦ <a href="https://github.com/CodeHotel/OnlineNote">온라인강의 필기프로그램 '넷필'</a></b> <sub>2021</sub><br>
-  &nbsp;&nbsp;• C# WPF, 특허권 취득 (2022.07.25, 특허청 융복합기술심사국 인공지능빅데이터심사과)
+  <b>✦ <a href="https://github.com/CodeHotel/OnlineNote">NetPil, Online Lecture Note-Taking Program</a></b> <sub>2021</sub><br>
+  &nbsp;&nbsp;• C# WPF, patent registered on 2022.07.25 with the Korean Intellectual Property Office
 </p>
 
 <p>
-  <b>✦ Minecraft JE 플러그인 서버</b> <sub>2020</sub><br>
-  &nbsp;&nbsp;• 홈서버 운영, 4회 DDOS 방어, 직접 플러그인/에셋 개발
+  <b>✦ Minecraft JE Plugin Server</b> <sub>2020</sub><br>
+  &nbsp;&nbsp;• Operated a home server, defended against four DDoS attacks, and developed custom plugins and assets
 </p>
 
 </div>

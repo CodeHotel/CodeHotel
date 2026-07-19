@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="34" viewBox="0 0 218 34" role="img" aria-label="Read Korean Version">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="218" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="217" height="33" rx="7" fill="url(#bg)" stroke="#a78bfa"/>
+  <circle cx="18" cy="17" r="6" fill="#a78bfa" opacity="0.95"/>
+  <path d="M21 17h-6M18 14l-3 3 3 3" fill="none" stroke="#2e1065" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="34" y="22" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0">Read Korean Version</text>
+</svg>
