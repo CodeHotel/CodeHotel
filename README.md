@@ -90,7 +90,7 @@
 
 ---
 
-### 🔬 Lab Participations
+### 🔬 학부연구생
 
 <div align="center">
   <b>
@@ -125,8 +125,7 @@
 
 <p align="center">
   <b>
-    Web, App, Embedded, Simulation & CAD, Automation Systems, Analog Circuit Design, Machine Learning & Computer Vision, Media<br>
-    (웹, 앱, 임베디드, 시뮬레이션 & CAD, 자동화 시스템, 아날로그 회로설계, 머신러닝 & 컴퓨터비전, 미디어)
+    웹/앱 풀스택, 임베디드, 시뮬레이션 & CAD, 자동화 시스템, 아날로그 회로설계, 머신러닝 & 컴퓨터비전, 미디어
   </b>
 </p>
 
@@ -168,6 +167,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <br><br>
@@ -246,6 +246,12 @@
 </p>
 
 <p>
+  <b>✦ <a href="https://github.com/CodeHotel/BoozeVortex">유체역학 개인연구</a></b> <sub>2025 겨울</sub><br>
+  &nbsp;&nbsp;• 소주병을 흔들어 가장 화려한 회오리를 만드는 각운동 계산<br>
+  &nbsp;&nbsp;• OpenFOAM(전산유체역학), Bayesian Optimizer
+</p>
+
+<p>
   <b>✦ <a href="https://github.com/CAPS-DGU/UmJoonSIC">엄준SIC</a></b> <sub>2025.08</sub><br>
   &nbsp;&nbsp;• 동국대학교 컴퓨터AI학부 공식 실습 프로그램 제작, 채택, 배포<br>
   &nbsp;&nbsp;• 책임교수: 동국대 컴퓨터AI학부 정준호 교수
@@ -290,7 +296,7 @@
 
 <p>
   <b>✦ 군 정보화 장비 개발</b> <sub>2022~2023</sub><br>
-  &nbsp;&nbsp;• 전파통신장비, PCB 회로설계, 표창장 수상 (2023.03)
+  &nbsp;&nbsp;• 전파통신장비, PCB 회로설계, 표창장 수상 (육군특수전사령부, 2023.03)
 </p>
 
 <p>

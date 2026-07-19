@@ -168,6 +168,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <br><br>
@@ -243,6 +244,12 @@
 <p>
   <b>✦ Intern, School of Mathematics and Computing, Yonsei University</b> <sub>Winter 2025</sub><br>
   &nbsp;&nbsp;• CFD (Computational Fluid Dynamics) / Numerical PDE
+</p>
+
+<p>
+  <b>✦ <a href="https://github.com/CodeHotel/BoozeVortex">Personal Fluid Mechanics Research</a></b> <sub>Winter 2025</sub><br>
+  &nbsp;&nbsp;• Calculated angular motion to create the most visually striking vortex by shaking a soju bottle<br>
+  &nbsp;&nbsp;• OpenFOAM (Computational Fluid Dynamics), Bayesian Optimizer
 </p>
 
 <p>
