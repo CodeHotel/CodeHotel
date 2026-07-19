@@ -73,7 +73,9 @@
   <br>
   <b>
     TOEIC 980/990<br>
-    IBT TOEFL 113/120
+    IBT TOEFL 113/120<br>
+    Served as ROK Army Linguist (Special Warfare Command)<br>
+    Entertainment Interpreter (Double X Entertainment)
   </b>
 </div>
 
