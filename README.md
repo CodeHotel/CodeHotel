@@ -74,8 +74,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeHotel&show_icons=true&hide_title=true&theme=dracula" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeHotel&layout=compact&theme=dracula" height="170">
+  <img src="https://github-stats-extended.vercel.app/api?username=CodeHotel&show_icons=true&hide_title=true&theme=dracula" height="170" alt="CodeHotel GitHub stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CodeHotel&layout=compact&theme=dracula" height="170" alt="CodeHotel top languages">
 </p>
 
 ---
@@ -83,7 +83,10 @@
 ## 🏅 Badges & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeHotel&theme=flat&row=1" />
+  <img src="https://img.shields.io/github/followers/CodeHotel?style=for-the-badge&logo=github&label=Followers" alt="CodeHotel GitHub followers">
+  <img src="https://img.shields.io/github/stars/CodeHotel?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars" alt="CodeHotel total GitHub stars">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeHotel&theme=dracula&hide_border=true" alt="CodeHotel GitHub activity graph" />
 </p>
 
 ---
