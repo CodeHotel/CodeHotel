@@ -1,0 +1,45 @@
+name: Activity graph
+
+# Replaces github-readme-activity-graph.vercel.app, whose public deployment is disabled.
+# Renders activity-graph.svg and force-pushes it as the single commit of the `output` branch,
+# so main's history stays clean. The README embeds it from raw.githubusercontent.com.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/activity-graph.yml"
+      - ".github/scripts/activity_graph.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/activity_graph.py --user "${{ github.repository_owner }}" --out dist/activity-graph.svg
+
+      - name: Publish to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg
+          git commit -q -m "Update activity graph"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output

@@ -38,6 +38,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-Contributor-1abc9c?logo=opencv&logoColor=white&style=for-the-badge" height="32" />
   <br>
+  <b>Code merged into OpenCV twice</b><br>
   <b style="font-size:1.15em">
     <a href="https://github.com/opencv/opencv_contrib/pull/3898">opencv/opencv_contrib #3898 (2025)</a><br>
     <a href="https://github.com/opencv/opencv/pull/29387">opencv/opencv #29387 (2026)</a>
@@ -71,24 +72,32 @@
   <img src="https://img.shields.io/badge/TOEIC-980%2F990-blue?style=for-the-badge&logo=bookstack&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/TOEFL-113%2F120-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white" height="32" />
   <br>
-  <b>
+  <img src="assets/badges/rokswc.svg" height="32" alt="ROKSWC Army Linguist" />
+  <img src="assets/badges/entertainment.svg" height="32" alt="Entertainment Interpreter" />
+  <br>
+  <sub><b>
     TOEIC 980/990<br>
     IBT TOEFL 113/120<br>
     Served as ROK Army Linguist (Special Warfare Command)<br>
-    Entertainment Interpreter (Double X Entertainment)
-  </b>
+    Entertainment Interpreter (엑세스엑스 Entertainment)
+  </b></sub>
 </div>
 
 ---
 
-### 👨🏻‍🏫 Teaching Assistant
+### 👨🏻‍🏫 Mentoring & Teaching
 
 <div align="center">
-  <b>
-    TA, Department of Computer Science and Artificial Intelligence<br>
-    Major Course: System Software (Fall 2025)<br>
-    Major Course: Basic Programming (Spring 2026)
-  </b>
+  <b>Programming Instructor, Private Academy in Daechi-dong</b><br>
+  <sub>3 regular classes · 1 year (2025.05 ~ 2026.05)</sub>
+  <br><br>
+  <b>Study Mentor, CAPS (Dongguk University Central Programming Club)</b><br>
+  <sub>Summer 2025 · Learn Programming by Watching (27 students)</sub><br>
+  <sub>Fall 2025 ~ Fall 2026 (3 semesters) · Saessak Beginner Class (avg. 18 students)</sub>
+  <br><br>
+  <b>Lab TA, Department of Computer Science and Artificial Intelligence, Dongguk University</b><br>
+  <sub>Major Course: System Software (Fall 2025)</sub><br>
+  <sub>Major Course: Basic Programming (Spring 2026)</sub>
 </div>
 
 ---
@@ -96,10 +105,13 @@
 ### 🔬 Lab Participations
 
 <div align="center">
-  <b>
+  <img src="assets/badges/dongguk.svg" height="32" alt="Dongguk University AI/CPS Lab" />
+  <img src="assets/badges/yonsei.svg" height="32" alt="Yonsei University MPMC Lab" />
+  <br>
+  <sub><b>
     AI/CPS Lab (Dongguk University, Prof. Moon Gi Seok, 2025)<br>
     MPMC Lab (Yonsei University, Winter 2025)
-  </b>
+  </b></sub>
 </div>
 
 ---
@@ -119,7 +131,7 @@
   <img src="https://img.shields.io/github/followers/CodeHotel?style=for-the-badge&logo=github&label=Followers" alt="CodeHotel GitHub followers">
   <img src="https://img.shields.io/github/stars/CodeHotel?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars" alt="CodeHotel total GitHub stars">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeHotel&theme=dracula&hide_border=true" alt="CodeHotel GitHub activity graph" />
+  <img src="https://raw.githubusercontent.com/CodeHotel/CodeHotel/output/activity-graph.svg" alt="CodeHotel GitHub activity graph" />
 </p>
 
 ---
@@ -262,7 +274,11 @@
 
 <p>
   <b>✦ <a href="https://github.com/CSID-DGU/2025-1-CSC4004-1-6-OpenAimForce">Open Source Software Project</a></b> <sub>2025</sub><br>
+  &nbsp;&nbsp;• Third-year design course, Department of Computer Science and Artificial Intelligence<br>
+  &nbsp;&nbsp;• Topic: AI-based aimhack detection for FPS games<br>
   &nbsp;&nbsp;• Built an aimhack detection test environment with C++, Go, and Docker<br>
+  &nbsp;&nbsp;• Developed our own game and web server to collect aimhack data<br>
+  &nbsp;&nbsp;• Hosted a competition with the university's central game club and collected data from 81 matches<br>
   &nbsp;&nbsp;• Reached 70% deep-learning detection accuracy and ranked first among all classes' 25 teams
 </p>
 

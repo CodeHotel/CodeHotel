@@ -37,6 +37,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-Contributor-1abc9c?logo=opencv&logoColor=white&style=for-the-badge" height="32" />
   <br>
+  <b>OpenCV 공식 저장소에 코드 2회 반영</b><br>
   <b style="font-size:1.15em">
     <a href="https://github.com/opencv/opencv_contrib/pull/3898">opencv/opencv_contrib #3898 (2025)</a><br>
     <a href="https://github.com/opencv/opencv/pull/29387">opencv/opencv #29387 (2026)</a>
@@ -70,24 +71,32 @@
   <img src="https://img.shields.io/badge/TOEIC-980%2F990-blue?style=for-the-badge&logo=bookstack&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/TOEFL-113%2F120-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white" height="32" />
   <br>
-  <b>
+  <img src="assets/badges/rokswc.svg" height="32" alt="ROKSWC Army Linguist" />
+  <img src="assets/badges/entertainment.svg" height="32" alt="Entertainment Interpreter" />
+  <br>
+  <sub><b>
     TOEIC 980/990<br>
     IBT TOEFL 113/120<br>
     육군어학병(특수전사령부) 복무<br>
-    엔터테인먼트 통역사(더블엑스 엔터테인먼트)
-  </b>
+    엔터테인먼트 통역사(엑세스엑스 엔터테인먼트)
+  </b></sub>
 </div>
 
 ---
 
-### 👨🏻‍🏫 실습조교 활동
+### 👨🏻‍🏫 멘토 활동
 
 <div align="center">
-  <b>
-    컴퓨터AI학부 조교<br>
-    전공과목 '시스템소프트웨어' (2025 2학기)<br>
-    전공과목 '기초프로그래밍' (2026 1학기)
-  </b>
+  <b>대치동 프로그래밍 학원 강사</b><br>
+  <sub>정규반 3개 담당 · 1년 (2025.05 ~ 2026.05)</sub>
+  <br><br>
+  <b>중앙 프로그래밍 동아리 CAPS 스터디 멘토</b><br>
+  <sub>2025 여름 · 보면서 배우는 프로그래밍 (27명)</sub><br>
+  <sub>2025 하반기 ~ 2026 하반기 (총 3학기) · 새싹반 (평균 수강생 18명)</sub>
+  <br><br>
+  <b>동국대학교 컴퓨터AI학부 실습조교</b><br>
+  <sub>전공과목 '시스템소프트웨어' (2025 2학기)</sub><br>
+  <sub>전공과목 '기초프로그래밍' (2026 1학기)</sub>
 </div>
 
 ---
@@ -95,10 +104,13 @@
 ### 🔬 학부연구생
 
 <div align="center">
-  <b>
+  <img src="assets/badges/dongguk.svg" height="32" alt="Dongguk University AI/CPS Lab" />
+  <img src="assets/badges/yonsei.svg" height="32" alt="Yonsei University MPMC Lab" />
+  <br>
+  <sub><b>
     AI/CPS Lab (동국대학교 석문기 교수, 2025)<br>
     MPMC Lab (연세대학교, 2025 겨울학기)
-  </b>
+  </b></sub>
 </div>
 
 ---
@@ -118,7 +130,7 @@
   <img src="https://img.shields.io/github/followers/CodeHotel?style=for-the-badge&logo=github&label=Followers" alt="CodeHotel GitHub followers">
   <img src="https://img.shields.io/github/stars/CodeHotel?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars" alt="CodeHotel total GitHub stars">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeHotel&theme=dracula&hide_border=true" alt="CodeHotel GitHub activity graph" />
+  <img src="https://raw.githubusercontent.com/CodeHotel/CodeHotel/output/activity-graph.svg" alt="CodeHotel GitHub activity graph" />
 </p>
 
 ---
@@ -261,7 +273,11 @@
 
 <p>
   <b>✦ <a href="https://github.com/CSID-DGU/2025-1-CSC4004-1-6-OpenAimForce">공개 SW 프로젝트</a></b> <sub>2025</sub><br>
+  &nbsp;&nbsp;• 컴퓨터AI학부 3학년 설계과목<br>
+  &nbsp;&nbsp;• 주제 : AI를 활용한 FPS 게임 에임핵 적발<br>
   &nbsp;&nbsp;• 에임핵 적발 테스트용 환경 개발 (C++, Go, Docker)<br>
+  &nbsp;&nbsp;• 에임핵 데이터 수집을 위해 게임 및 웹서버 직접 개발<br>
+  &nbsp;&nbsp;• 중앙 게임 동아리와 연계해 공모전 개최, 데이터 81판 수집<br>
   &nbsp;&nbsp;• 딥러닝 정확도 70% 달성, 전체 분반 25팀 중 1등
 </p>
 
