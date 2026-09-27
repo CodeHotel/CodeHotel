@@ -16,7 +16,7 @@
   <b>🎖 ROK Special Warfare Command, 7th Special Forces Brigade (Discharged: 2023.03, Sergeant E-5)</b><br>
   <b>🔬 Academic Director, Dongguk University Central Programming Club CAPS (2026)</b><br>
   <b>👨🏻‍🏫 Programming Institute Part-Time Teacher (2025.05 ~ 2026.05)</b><br>
-  <b>🌐 Eng-Kor Interpreter, 1.3yrs experience (Military, Entertainment Agency)</b>
+  <b>🌐 Eng-Kor Interpreter, 1.3yrs experience (Military, Performance & Arts)</b>
 </p>
 
 <p align="center">
@@ -73,13 +73,13 @@
   <img src="https://img.shields.io/badge/TOEFL-113%2F120-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white" height="32" />
   <br>
   <img src="assets/badges/rokswc.svg" height="32" alt="ROKSWC Army Linguist" />
-  <img src="assets/badges/entertainment.svg" height="32" alt="Entertainment Interpreter" />
+  <img src="assets/badges/performance-arts.svg" height="32" alt="Performance &amp; Arts Interpreter" />
   <br>
   <sub><b>
     TOEIC 980/990<br>
     IBT TOEFL 113/120<br>
     Served as ROK Army Linguist (Special Warfare Command)<br>
-    Entertainment Interpreter (엑세스엑스 Entertainment)
+    Performance & Arts Interpreter (엑세스엑스 Entertainment)
   </b></sub>
 </div>
 

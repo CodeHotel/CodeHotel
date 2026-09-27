@@ -16,7 +16,7 @@
   <b>🎖 특수전사령부 제7공수특전여단 작전참모처 병장 만기전역</b><br>
   <b>🔬 동국대학교 중앙동아리 CAPS 부장단 (학술부장, 39기)</b><br>
   <b>👨🏻‍🏫 대치동 프로그래밍 학원 시간강사 (2025.05 ~ 2026.05)</b><br>
-  <b>🌐 통번역 : 경력 1년 4개월 (동시, 순차) (군 통번역, 엔터테인먼트 통역) </b>
+  <b>🌐 통번역 : 경력 1년 4개월 (동시, 순차) (군 통번역, 공연예술업계 통역) </b>
 </p>
 
 <p align="center">
@@ -72,13 +72,13 @@
   <img src="https://img.shields.io/badge/TOEFL-113%2F120-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white" height="32" />
   <br>
   <img src="assets/badges/rokswc.svg" height="32" alt="ROKSWC Army Linguist" />
-  <img src="assets/badges/entertainment.svg" height="32" alt="Entertainment Interpreter" />
+  <img src="assets/badges/performance-arts.svg" height="32" alt="Performance &amp; Arts Interpreter" />
   <br>
   <sub><b>
     TOEIC 980/990<br>
     IBT TOEFL 113/120<br>
     육군어학병(특수전사령부) 복무<br>
-    엔터테인먼트 통역사(엑세스엑스 엔터테인먼트)
+    공연예술업계 통역(엑세스엑스 엔터테인먼트)
   </b></sub>
 </div>
 
