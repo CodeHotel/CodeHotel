@@ -74,12 +74,12 @@
   <img src="assets/badges/rokswc.svg" height="32" alt="ROKSWC Army Linguist" />
   <img src="assets/badges/performance-arts.svg" height="32" alt="Performance &amp; Arts Interpreter" />
   <br>
-  <sub><b>
+  <small><b>
     TOEIC 980/990<br>
     IBT TOEFL 113/120<br>
     육군어학병(특수전사령부) 복무<br>
     공연예술업계 통역(엑세스엑스 엔터테인먼트)
-  </b></sub>
+  </b></small>
 </div>
 
 ---
@@ -107,10 +107,10 @@
   <img src="assets/badges/dongguk.svg" height="32" alt="Dongguk University AI/CPS Lab" />
   <img src="assets/badges/yonsei.svg" height="32" alt="Yonsei University MPMC Lab" />
   <br>
-  <sub><b>
+  <small><b>
     AI/CPS Lab (동국대학교 석문기 교수, 2025)<br>
     MPMC Lab (연세대학교, 2025 겨울학기)
-  </b></sub>
+  </b></small>
 </div>
 
 ---
