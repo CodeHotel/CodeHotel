@@ -38,10 +38,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-Contributor-1abc9c?logo=opencv&logoColor=white&style=for-the-badge" height="32" />
   <br>
-  <b>Code merged into OpenCV twice</b><br>
+  <b>Code merged into OpenCV three times</b><br>
   <b style="font-size:1.15em">
     <a href="https://github.com/opencv/opencv_contrib/pull/3898">opencv/opencv_contrib #3898 (2025)</a><br>
-    <a href="https://github.com/opencv/opencv/pull/29387">opencv/opencv #29387 (2026)</a>
+    <a href="https://github.com/opencv/opencv/pull/29387">opencv/opencv #29387 (2026)</a><br>
+    <a href="https://github.com/opencv/opencv_contrib/pull/4143">opencv/opencv_contrib #4143 (2026)</a>
   </b>
 </div>
 
@@ -285,7 +286,8 @@
 <p>
   <b>✦ OpenCV Contributor</b> <sub>2025~</sub><br>
   &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv_contrib/pull/3898">Restored and received approval for a long-neglected module</a><br>
-  &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv/pull/29387">Fixed OpenCV.js ximgproc EdgeDrawing bindings</a>
+  &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv/pull/29387">Fixed OpenCV.js ximgproc EdgeDrawing bindings</a><br>
+  &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv_contrib/pull/4143">Restored the Julia bindings build for current Julia/CxxWrap (co-authored)</a>
 </p>
 
 <p>

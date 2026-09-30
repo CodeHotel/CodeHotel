@@ -37,10 +37,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-Contributor-1abc9c?logo=opencv&logoColor=white&style=for-the-badge" height="32" />
   <br>
-  <b>OpenCV 공식 저장소에 코드 2회 반영</b><br>
+  <b>OpenCV 공식 저장소에 코드 3회 반영</b><br>
   <b style="font-size:1.15em">
     <a href="https://github.com/opencv/opencv_contrib/pull/3898">opencv/opencv_contrib #3898 (2025)</a><br>
-    <a href="https://github.com/opencv/opencv/pull/29387">opencv/opencv #29387 (2026)</a>
+    <a href="https://github.com/opencv/opencv/pull/29387">opencv/opencv #29387 (2026)</a><br>
+    <a href="https://github.com/opencv/opencv_contrib/pull/4143">opencv/opencv_contrib #4143 (2026)</a>
   </b>
 </div>
 
@@ -284,7 +285,8 @@
 <p>
   <b>✦ OpenCV Contributor</b> <sub>2025~</sub><br>
   &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv_contrib/pull/3898">7년 방치 모듈 복구 및 PR 승인</a><br>
-  &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv/pull/29387">OpenCV.js ximgproc EdgeDrawing 바인딩 수정</a>
+  &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv/pull/29387">OpenCV.js ximgproc EdgeDrawing 바인딩 수정</a><br>
+  &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv_contrib/pull/4143">Julia 바인딩 빌드 복구 (최신 Julia/CxxWrap 대응, 공동 기여)</a>
 </p>
 
 <p>
