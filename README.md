@@ -51,6 +51,13 @@
   <b>
     <a href="https://github.com/Project-HAMi/HAMi-core/pull/358">Project-HAMi/HAMi-core #358 (2026)</a>
   </b>
+  <br><br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="32" />
+  <br>
+  <b>TensorFlow에 오류 수정 제안</b><br>
+  <b>
+    <a href="https://github.com/tensorflow/tensorflow/pull/97724">tensorflow/tensorflow #97724 (2025)</a>
+  </b>
 </div>
 
 ---
