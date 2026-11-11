@@ -94,7 +94,7 @@
     TOEIC 980/990<br>
     IBT TOEFL 113/120<br>
     대한민국 특수전사령부 통역병 복무<br>
-    공연예술업계 통역사(엑세스엑스 엔터테인먼트)
+    공연예술업계 통역사(AccesX Entertainment)
   </b></small>
 </div>
 

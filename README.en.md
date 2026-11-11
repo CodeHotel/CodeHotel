@@ -94,7 +94,7 @@
     TOEIC 980/990<br>
     IBT TOEFL 113/120<br>
     Served as Military Interpreter, ROK Special Warfare Command<br>
-    Performance & Arts Interpreter (Access X Entertainment)
+    Performance & Arts Interpreter (AccesX Entertainment)
   </b></small>
 </div>
 
