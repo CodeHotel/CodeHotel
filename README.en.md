@@ -33,7 +33,7 @@
 
 ---
 
-### 🏆 OpenCV Contributor
+### 🏆 Open Source Contributions
 
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-Contributor-1abc9c?logo=opencv&logoColor=white&style=for-the-badge" height="32" />
@@ -43,6 +43,13 @@
     <a href="https://github.com/opencv/opencv_contrib/pull/3898">opencv/opencv_contrib #3898 (2025)</a><br>
     <a href="https://github.com/opencv/opencv/pull/29387">opencv/opencv #29387 (2026)</a><br>
     <a href="https://github.com/opencv/opencv_contrib/pull/4143">opencv/opencv_contrib #4143 (2026)</a>
+  </b>
+  <br><br>
+  <img src="https://img.shields.io/badge/HAMi-Contributor-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="32" />
+  <br>
+  <b>Code merged into HAMi (GPU partitioning library adopted by NVIDIA KAI)</b><br>
+  <b>
+    <a href="https://github.com/Project-HAMi/HAMi-core/pull/358">Project-HAMi/HAMi-core #358 (2026)</a>
   </b>
 </div>
 
@@ -79,7 +86,7 @@
   <small><b>
     TOEIC 980/990<br>
     IBT TOEFL 113/120<br>
-    Served as ROK Army Linguist (Special Warfare Command)<br>
+    Served as Military Interpreter, ROK Special Warfare Command<br>
     Performance & Arts Interpreter (Access X Entertainment)
   </b></small>
 </div>
@@ -270,6 +277,7 @@
 <p>
   <b>✦ <a href="https://github.com/CAPS-DGU/UmJoonSIC">UmJoonSIC</a></b> <sub>2025.08</sub><br>
   &nbsp;&nbsp;• Built, adopted, and deployed an official lab program for Dongguk University's Department of Computer Science and Artificial Intelligence<br>
+  &nbsp;&nbsp;• Incorporated feedback and bug reports from students and TAs, and maintained it for 2 years<br>
   &nbsp;&nbsp;• Supervising professor: Prof. Junho Jung, Department of Computer Science and Artificial Intelligence, Dongguk University
 </p>
 

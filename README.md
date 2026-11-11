@@ -13,10 +13,10 @@
   &emsp;&emsp;📚 제1 복수전공 &nbsp;: 공과대학 기계로봇에너지공학<br>
   &emsp;&emsp;📚 제2 복수전공(예정) &nbsp;: 공과대학 전자전기공학부
 </b><br>
-  <b>🎖 특수전사령부 제7공수특전여단 작전참모처 병장 만기전역 (2023.03)</b><br>
+  <b>🎖 대한민국 특수전사령부 제7공수특전여단 작전참모처 병장 만기전역 (2023.03)</b><br>
   <b>🔬 동국대학교 중앙동아리 CAPS 부장단 (학술부장, 39기, 2026)</b><br>
   <b>👨🏻‍🏫 대치동 프로그래밍 학원 시간강사 (2025.05 ~ 2026.05)</b><br>
-  <b>🌐 통번역 : 경력 1년 4개월 (동시, 순차) (군 통번역, 공연예술업계 통역)</b>
+  <b>🌐 통번역 : 경력 1년 4개월 (동시, 순차) (군 통번역, 공연예술업계 통역사)</b>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ---
 
-### 🏆 OpenCV 기여자
+### 🏆 오픈소스 기여
 
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-Contributor-1abc9c?logo=opencv&logoColor=white&style=for-the-badge" height="32" />
@@ -43,6 +43,13 @@
     <a href="https://github.com/opencv/opencv_contrib/pull/3898">opencv/opencv_contrib #3898 (2025)</a><br>
     <a href="https://github.com/opencv/opencv/pull/29387">opencv/opencv #29387 (2026)</a><br>
     <a href="https://github.com/opencv/opencv_contrib/pull/4143">opencv/opencv_contrib #4143 (2026)</a>
+  </b>
+  <br><br>
+  <img src="https://img.shields.io/badge/HAMi-Contributor-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="32" />
+  <br>
+  <b>HAMi(NVIDIA KAI에서 채택한 GPU 분할 라이브러리)에 코드 반영</b><br>
+  <b>
+    <a href="https://github.com/Project-HAMi/HAMi-core/pull/358">Project-HAMi/HAMi-core #358 (2026)</a>
   </b>
 </div>
 
@@ -79,8 +86,8 @@
   <small><b>
     TOEIC 980/990<br>
     IBT TOEFL 113/120<br>
-    육군어학병(특수전사령부) 복무<br>
-    공연예술업계 통역(엑세스엑스 엔터테인먼트)
+    대한민국 특수전사령부 통역병 복무<br>
+    공연예술업계 통역사(엑세스엑스 엔터테인먼트)
   </b></small>
 </div>
 
@@ -93,7 +100,7 @@
   <sub>정규반 3개 담당 · 1년 (2025.05 ~ 2026.05)</sub>
   <br><br>
   <b>중앙 프로그래밍 동아리 CAPS 스터디 멘토</b><br>
-  <sub>2025 여름 · 보면서 배우는 프로그래밍 (27명)</sub><br>
+  <sub>2025 여름 · 보면서 배우는 프로그래밍 (수강생 27명)</sub><br>
   <sub>2025 하반기 ~ 2026 하반기 (총 3학기) · 새싹반 (평균 수강생 18명)</sub>
   <br><br>
   <b>동국대학교 컴퓨터AI학부 실습조교</b><br>
@@ -270,6 +277,7 @@
 <p>
   <b>✦ <a href="https://github.com/CAPS-DGU/UmJoonSIC">엄준SIC</a></b> <sub>2025.08</sub><br>
   &nbsp;&nbsp;• 동국대학교 컴퓨터AI학부 공식 실습 프로그램 제작, 채택, 배포<br>
+  &nbsp;&nbsp;• 수강생/조교 피드백 및 버그 제보 반영, 2년간 유지보수<br>
   &nbsp;&nbsp;• 책임교수: 동국대 컴퓨터AI학부 정준호 교수
 </p>
 
