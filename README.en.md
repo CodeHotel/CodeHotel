@@ -299,10 +299,21 @@
 </p>
 
 <p>
+  <b>✦ HAMi Contributor</b> <sub>2026</sub><br>
+  &nbsp;&nbsp;• GPU partitioning library adopted by NVIDIA KAI<br>
+  &nbsp;&nbsp;• <a href="https://github.com/Project-HAMi/HAMi-core/pull/358">Fixed a race condition in host PID detection</a>
+</p>
+
+<p>
   <b>✦ OpenCV Contributor</b> <sub>2025~</sub><br>
   &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv_contrib/pull/3898">Restored and received approval for a long-neglected module</a><br>
   &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv/pull/29387">Fixed OpenCV.js ximgproc EdgeDrawing bindings</a><br>
   &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv_contrib/pull/4143">Restored the Julia bindings build for current Julia/CxxWrap (co-authored)</a>
+</p>
+
+<p>
+  <b>✦ TensorFlow Bug Fix Proposal</b> <sub>2025</sub><br>
+  &nbsp;&nbsp;• <a href="https://github.com/tensorflow/tensorflow/pull/97724">Duplicate cuDNN/cuFFT/cuBLAS plugin registration errors</a>
 </p>
 
 <p>

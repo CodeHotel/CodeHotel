@@ -299,10 +299,21 @@
 </p>
 
 <p>
+  <b>✦ HAMi Contributor</b> <sub>2026</sub><br>
+  &nbsp;&nbsp;• NVIDIA KAI에서 채택한 GPU 분할 라이브러리<br>
+  &nbsp;&nbsp;• <a href="https://github.com/Project-HAMi/HAMi-core/pull/358">호스트 PID 탐지 레이스 컨디션 수정</a>
+</p>
+
+<p>
   <b>✦ OpenCV Contributor</b> <sub>2025~</sub><br>
   &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv_contrib/pull/3898">7년 방치 모듈 복구 및 PR 승인</a><br>
   &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv/pull/29387">OpenCV.js ximgproc EdgeDrawing 바인딩 수정</a><br>
   &nbsp;&nbsp;• <a href="https://github.com/opencv/opencv_contrib/pull/4143">Julia 바인딩 빌드 복구 (최신 Julia/CxxWrap 대응, 공동 기여)</a>
+</p>
+
+<p>
+  <b>✦ TensorFlow 오류 수정 제안</b> <sub>2025</sub><br>
+  &nbsp;&nbsp;• <a href="https://github.com/tensorflow/tensorflow/pull/97724">cuDNN/cuFFT/cuBLAS 플러그인 중복 등록 오류</a>
 </p>
 
 <p>
