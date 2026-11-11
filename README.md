@@ -249,6 +249,12 @@
 <div align="left">
 
 <p>
+  <b>✦ HAMi Contributor</b> <sub>2026</sub><br>
+  &nbsp;&nbsp;• NVIDIA KAI에서 채택한 GPU 분할 라이브러리<br>
+  &nbsp;&nbsp;• <a href="https://github.com/Project-HAMi/HAMi-core/pull/358">호스트 PID 탐지 레이스 컨디션 수정</a>
+</p>
+
+<p>
   <b>✦ <a href="https://dgucaps.kr/wiki/%EC%A0%95%EC%83%81%EC%9B%90">동국대학교 중앙 프로그래밍 동아리 학술부장</a></b> <sub>2026</sub><br>
   &nbsp;&nbsp;• 스터디 정규교육과정 제정<br>
   &nbsp;&nbsp;• 신규활동 개발TF 창설 (기업형 소프트웨어공학 실습활동)
@@ -296,12 +302,6 @@
   &nbsp;&nbsp;• 에임핵 데이터 수집을 위해 게임 및 웹서버 직접 개발<br>
   &nbsp;&nbsp;• 중앙 게임 동아리와 연계해 공모전 개최, 데이터 81판 수집<br>
   &nbsp;&nbsp;• 딥러닝 정확도 70% 달성, 전체 분반 25팀 중 1등
-</p>
-
-<p>
-  <b>✦ HAMi Contributor</b> <sub>2026</sub><br>
-  &nbsp;&nbsp;• NVIDIA KAI에서 채택한 GPU 분할 라이브러리<br>
-  &nbsp;&nbsp;• <a href="https://github.com/Project-HAMi/HAMi-core/pull/358">호스트 PID 탐지 레이스 컨디션 수정</a>
 </p>
 
 <p>

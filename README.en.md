@@ -249,6 +249,12 @@
 <div align="left">
 
 <p>
+  <b>✦ HAMi Contributor</b> <sub>2026</sub><br>
+  &nbsp;&nbsp;• GPU partitioning library adopted by NVIDIA KAI<br>
+  &nbsp;&nbsp;• <a href="https://github.com/Project-HAMi/HAMi-core/pull/358">Fixed a race condition in host PID detection</a>
+</p>
+
+<p>
   <b>✦ <a href="https://dgucaps.kr/wiki/%EC%A0%95%EC%83%81%EC%9B%90">Academic Director, Dongguk University Central Programming Club</a></b> <sub>2026</sub><br>
   &nbsp;&nbsp;• Established the regular curriculum for study programs<br>
   &nbsp;&nbsp;• Founded a new-activity development task force for enterprise-style software engineering practice
@@ -296,12 +302,6 @@
   &nbsp;&nbsp;• Developed our own game and web server to collect aimhack data<br>
   &nbsp;&nbsp;• Hosted a competition with the university's central game club and collected data from 81 matches<br>
   &nbsp;&nbsp;• Reached 70% deep-learning detection accuracy and ranked first among all classes' 25 teams
-</p>
-
-<p>
-  <b>✦ HAMi Contributor</b> <sub>2026</sub><br>
-  &nbsp;&nbsp;• GPU partitioning library adopted by NVIDIA KAI<br>
-  &nbsp;&nbsp;• <a href="https://github.com/Project-HAMi/HAMi-core/pull/358">Fixed a race condition in host PID detection</a>
 </p>
 
 <p>
