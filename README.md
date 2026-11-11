@@ -7,16 +7,16 @@
 </p>
 
 <p align="left">
-  <b>🎓 Senior Student, Computer Science and Engineering, Dongguk University (Entry: 20)</b><br>
+  <b>🎓 동국대학교 컴퓨터공학전공 4학년 (20학번)</b><br>
 <b>
   &emsp;&emsp;📚 주전공 &nbsp;: 공과대학 컴퓨터공학전공<br>
   &emsp;&emsp;📚 제1 복수전공 &nbsp;: 공과대학 기계로봇에너지공학<br>
   &emsp;&emsp;📚 제2 복수전공(예정) &nbsp;: 공과대학 전자전기공학부
 </b><br>
-  <b>🎖 특수전사령부 제7공수특전여단 작전참모처 병장 만기전역</b><br>
-  <b>🔬 동국대학교 중앙동아리 CAPS 부장단 (학술부장, 39기)</b><br>
+  <b>🎖 특수전사령부 제7공수특전여단 작전참모처 병장 만기전역 (2023.03)</b><br>
+  <b>🔬 동국대학교 중앙동아리 CAPS 부장단 (학술부장, 39기, 2026)</b><br>
   <b>👨🏻‍🏫 대치동 프로그래밍 학원 시간강사 (2025.05 ~ 2026.05)</b><br>
-  <b>🌐 통번역 : 경력 1년 4개월 (동시, 순차) (군 통번역, 공연예술업계 통역) </b>
+  <b>🌐 통번역 : 경력 1년 4개월 (동시, 순차) (군 통번역, 공연예술업계 통역)</b>
 </p>
 
 <p align="center">
@@ -26,14 +26,15 @@
   <a href="mailto:schooldog07@dgu.ac.kr">
     <img src="https://img.shields.io/badge/E--Mail-schooldog07%40dgu.ac.kr-red?logo=gmail" />
   </a>
-  <img src="https://img.shields.io/badge/Entry-20-blue" />
+  <img src="https://img.shields.io/badge/Entry-2020-blue" />
   <img src="https://img.shields.io/badge/Status-수료(4학년)-blueviolet" />
-  <img src="https://img.shields.io/badge/DualMajor-CSE%20%2B%20MEC-brightgreen" />
+  <img src="https://img.shields.io/badge/DualMajor-CSE%20%2B%20MRE-brightgreen" />
 </p>
 
 ---
 
-### 🏆 **OpenCV 기여자**
+### 🏆 OpenCV 기여자
+
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-Contributor-1abc9c?logo=opencv&logoColor=white&style=for-the-badge" height="32" />
   <br>
